@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="break-production-01 logo">
+
+<p>One line from an agent that broke production and owns it completely — no excuses, total ownership, zero remorse.</p>
+
+![Python](https://img.shields.io/badge/Python-Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![License](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![By](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+</div>
+
 # break-production-01
 
 [![make.fun · u-ricoxyz-break-production-own-it-be78a994](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
